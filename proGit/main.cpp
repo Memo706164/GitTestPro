@@ -10,6 +10,8 @@ int main()
 
 	cout << "ˆês’Ç‰Á" << endl;
 
+	cout << "‚¨‚Ü‚¯‚¶‚á‚¢" << endl;
+
 	system("pause");
 	return 0;
 }
