@@ -12,6 +12,8 @@ int main()
 
 	cout << "Apex" << endl;
 
+	cout << "Legends" << endl;
+
 	system("pause");
 	return 0;
 }
