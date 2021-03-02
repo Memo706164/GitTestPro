@@ -14,6 +14,8 @@ int main()
 
 	cout << "Legends" << endl;
 
+	cout << "ブラッドハウンド" << endl;
+
 
 	system("pause");
 	return 0;
