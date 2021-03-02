@@ -14,6 +14,12 @@ int main()
 	int a = 1;
 	cout <<"うんこ"<< endl;
 
+	cout << "神聖ブランチにて、この行を追加す" << endl;
+
+	cout << "一行追加" << endl;
+
+	cout << "おまけじゃい" << endl;
+
 	system("pause");
 	return 0;
 }
