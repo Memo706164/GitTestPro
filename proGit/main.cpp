@@ -11,12 +11,7 @@ int main()
 
 
 
-
-
-
-
-
-
+	int a = 1;
 	cout <<"‚¤‚ñ‚±"<< endl;
 
 	system("pause");
