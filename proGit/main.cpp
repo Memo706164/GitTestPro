@@ -10,6 +10,8 @@ int main()
 
 	cout << "ApexLegends" << endl;
 
+	cout << "Apex" << endl;
+
 	system("pause");
 	return 0;
 }
